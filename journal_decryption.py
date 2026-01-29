@@ -66,7 +66,7 @@ def decrypt(ciphertext: str, password: str) -> str:
 
 def main():
 
-    password = "saturn"
+    password = input("Input the password": )
 
     text = read_text_file("journal_encrypted.txt")
 
@@ -77,5 +77,6 @@ def main():
 
 
 if __name__ == "__main__":
+
 
     main()

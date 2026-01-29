@@ -11,4 +11,6 @@ This repo serves as the auxiliary station to facilitate the codes might be neede
 
 ## How to use
 
-The submitted assignment is the encrypted text. You can create a .txt file and copy and paste the submitted texts into it, or directly download the .txt file in this repo.
+The submitted assignment is the encrypted text. 
+You can create a .txt file and copy and paste the submitted texts into it, or directly download the .txt file from this repo.
+Then, put decrypt.py into the same folder, and execute it to decrypt the text (that is, so long as your computer has python environment to run it).

@@ -1,4 +1,4 @@
-# IMGD-5000-Journal-1-Auxiliary-Repo
+# IMGD-5200-Journal-1-Auxiliary-Repo
 
 This repo serves as the auxiliary station to facilitate the codes might be needed for the journal assignment.
 
@@ -11,7 +11,7 @@ This repo serves as the auxiliary station to facilitate the codes might be neede
 
 ## System Requirement
 
-Tested on Python 3.12.0 without exterior packages, but should run on any python 3 environment.
+Tested on Python 3.12.0 without exterior packages, but should run on any computer with python 3 environment.
 
 ## How to use
 
